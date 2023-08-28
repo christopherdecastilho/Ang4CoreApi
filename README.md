@@ -1,5 +1,6 @@
 # Ang4CoreApi
- Front angular consumindo api net 7  
+ Front angular consumindo api net 7  ![Linguagem](https://img.shields.io/badge/Linguagem-C%23-blue)
+
 
 
 na pasta de front\testeCalc angular:  
