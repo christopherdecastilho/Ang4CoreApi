@@ -1,0 +1,16 @@
+<div>
+  <h2>Calcula CBD</h2>
+  <label for="valor">Valor Monetário:</label>
+  <input type="number" id="valor" [(ngModel)]="valor" />
+  <br />
+  <label for="prazo">Prazo em Meses:</label>
+  <input type="number" id="prazo" [(ngModel)]="prazo" />
+  <br />
+  <button (click)="calcCDB()">Enviar</button>
+  <br />
+  <div *ngIf="resultado">
+    <h3>Resultado:</h3>
+    <p>Bruto: {{ resultado.resultBruto | currency }}</p>
+    <p>Líquido: {{ resultado.resultLiquido | currency }}</p>
+  </div>
+</div>
