@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bHgORJYymvyov5BqrdoR0rHRM6tq1ioA2lnym+mE6iA=",
+  "Source": "ApiCalc",
+  "BasePath": "_content/ApiCalc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
